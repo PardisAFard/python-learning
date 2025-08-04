@@ -15,4 +15,4 @@ This game shows that even when everyone starts equal and acts randomly, inequali
 It's a simple but powerful reminder that fairness in systems isn't always as straightforward as it seems.
 
 
-### The path to learning how to be a data analyst begins with mastering three key libraries. The approach that I’ve chosen requires learning how to use Numpy, Pandas, and Matplotlib at the beginning. Here, I will be uploading my project codes that use these Python tools.
+### The path to learning how to be a 'data analyst' begins with mastering three key libraries. The approach that I’ve chosen requires learning how to use Numpy, Pandas, and Matplotlib at the beginning. Here, I will be uploading my project codes that use these Python tools.
